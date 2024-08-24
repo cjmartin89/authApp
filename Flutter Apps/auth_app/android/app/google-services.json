@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530381893480",
+    "project_id": "authapp-893ba",
+    "storage_bucket": "authapp-893ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530381893480:android:a0eb3e632479d577bef0dd",
+        "android_client_info": {
+          "package_name": "com.martintechsolution.authApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSP7h9qcaAUJpO7h39cy64RKzEUg_c7O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
